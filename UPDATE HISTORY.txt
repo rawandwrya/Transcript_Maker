@@ -1,0 +1,13 @@
+2402252200
+    status:
+        1- Complete version for the first time.
+    To be editted
+        1- I have to check to see how user friendly it is and remove extra options that might be there
+        2- overall, the code needs some cleaning
+        3- the code needs proper documentation and comments
+    Features to be added
+        1- the option to upload old CSV files
+        2- being able to edit values from CSV files
+        3- being able to edit your entries if you make a mistake
+        4- show semester transcript after someone is done with entering their semester grades
+        5- give the option to output the transcript in PDF format

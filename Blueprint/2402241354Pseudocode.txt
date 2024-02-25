@@ -1,0 +1,21 @@
+
+# create a database record (a dtype class object)
+#   each record is a semester. each semester is an array!
+#   each semester record contains:
+#                           1- column courseName, dtype string
+#                           2- column grade, dtype float
+#                           3- column courseCredit, dtype int
+
+# ask the user to input the semester name and store the string somewhere
+# in a loop, ask the student to enter
+#                            1- courseName: (store it)
+#                            2- grade: (store it)
+#                            3- courseCredit: (store it)
+# then ask if the info is correct and student wants to
+#                             1- Save and add another course to the semester
+#                                   - pass semester name to array name and the course info as a row input values of the array
+#                             2- Save and add another semester
+#                                   - pass semester name to array name and the course info as a row input values of the array
+#                             3- Go back and fix the previous input
+#                             4- Exit the whole thing
+# use while (true)s to keep the program up and running
