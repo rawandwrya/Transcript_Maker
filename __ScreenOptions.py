@@ -45,4 +45,9 @@ class Screen:
 
     def programClose(): # Screen for Exiting the program
         print("GOODBYE!!")
-        
+
+if __name__=="__main__": #test
+    Screen.home()
+    Screen.transcript()
+    Screen.semester()
+    Screen.programClose()
